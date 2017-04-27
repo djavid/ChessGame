@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/djavid/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-freetype/1.9.6/69187cc3c8062f191df435b43671b0e5ffcbf353/gdx-freetype-1.9.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69187cc3c8062f191df435b43671b0e5ffcbf353">
+        <dex dex="/Users/djavid/LibGdx projects/chess_test/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-freetype-1.9.6_4c64349c92f86ec0c8eca4f2ec7ab6bf99e6574a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/djavid/.gradle/caches/modules-2/files-2.1/com.esotericsoftware/jsonbeans/0.7/de977f0875708eddd154f2a4c3a3f58a13ef297/jsonbeans-0.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0de977f0875708eddd154f2a4c3a3f58a13ef297">
+        <dex dex="/Users/djavid/LibGdx projects/chess_test/android/build/intermediates/transforms/dex/debug/folders/1000/10/jsonbeans-0.7_d9a3acd75a33cc0523ac5a88d41d19ec128b3e6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/djavid/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.9.6/c249ef4060a4fada952f278455c8f7b9cba3c18a/gdx-box2d-1.9.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c249ef4060a4fada952f278455c8f7b9cba3c18a">
+        <dex dex="/Users/djavid/LibGdx projects/chess_test/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-box2d-1.9.6_84a6212888482e0488f1c0fd99649cf592eef341/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/djavid/LibGdx projects/chess_test/android/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e9d1628118c6751c348ded3e4bb653248a2fb6c">
+        <dex dex="/Users/djavid/LibGdx projects/chess_test/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_95ce8bfbbbe47dbbce83cb7066cfbb2866d28256/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/djavid/LibGdx projects/chess_test/android/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/djavid/LibGdx projects/chess_test/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e6644b519a4553f6f5e074785694af1fafa743cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/djavid/.gradle/caches/modules-2/files-2.1/com.esotericsoftware/minlog/1.3.0/ff07b5f1b01d2f92bb00a337f9a94873712f0827/minlog-1.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ff07b5f1b01d2f92bb00a337f9a94873712f0827">
+        <dex dex="/Users/djavid/LibGdx projects/chess_test/android/build/intermediates/transforms/dex/debug/folders/1000/10/minlog-1.3.0_bf62a95f56e6f4cda011c5ff319ef28409f4d45c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/djavid/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.6/57c2831c870743712b808384187ea856e541878f/gdx-backend-android-1.9.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2831c870743712b808384187ea856e541878f">
+        <dex dex="/Users/djavid/LibGdx projects/chess_test/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-backend-android-1.9.6_64003c72213eba3950f38a8c3b32b21ff3eaf3c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/djavid/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-ai/1.8.0/ec30677d8ab1a8b8aa4b853c5f4e4b1361f50bf5/gdx-ai-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec30677d8ab1a8b8aa4b853c5f4e4b1361f50bf5">
+        <dex dex="/Users/djavid/LibGdx projects/chess_test/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-ai-1.8.0_3d62dc0d009eb45a4243c4f325b3f222c3f398bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/djavid/.m2/repository/org/objenesis/objenesis/2.1/objenesis-2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="87c0ea803b69252868d09308b4618f766f135a96">
+        <dex dex="/Users/djavid/LibGdx projects/chess_test/android/build/intermediates/transforms/dex/debug/folders/1000/10/objenesis-2.1_4004f5bdbce8ac104e30ae3d65c35650f48b280f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/djavid/.android/build-cache/81db55132bf57464c9c5a0e57a293c538da25854/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/djavid/LibGdx projects/chess_test/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_554c049ee51905ced530fa5bc7d8eec4d48ce6ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/djavid/.gradle/caches/modules-2/files-2.1/com.esotericsoftware/kryonet/2.22.0-RC1/2f25f7250a3096a8d1b8182946f6572d90d280d0/kryonet-2.22.0-RC1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f25f7250a3096a8d1b8182946f6572d90d280d0">
+        <dex dex="/Users/djavid/LibGdx projects/chess_test/android/build/intermediates/transforms/dex/debug/folders/1000/10/kryonet-2.22.0-RC1_8de4e0334b46cff0d60a06b20265192d5664ab95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/djavid/.m2/repository/org/ow2/asm/asm/5.0.3/asm-5.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dcc2193db20e19e1feca8b1240dbbc4e190824fa">
+        <dex dex="/Users/djavid/LibGdx projects/chess_test/android/build/intermediates/transforms/dex/debug/folders/1000/10/asm-5.0.3_087a8679f8f5bb3ef22efebdde9b194792747e74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/djavid/.gradle/caches/modules-2/files-2.1/com.github.czyzby/gdx-websocket/1.9.1.9.6/7bd2ac8e9f7f8e41b2d19d2539c3554cc6129e6d/gdx-websocket-1.9.1.9.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bd2ac8e9f7f8e41b2d19d2539c3554cc6129e6d">
+        <dex dex="/Users/djavid/LibGdx projects/chess_test/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-websocket-1.9.1.9.6_b3975b899f3806bb28d1f304736bfdf3ee628dea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/djavid/.gradle/caches/modules-2/files-2.1/uk.com.robust-it/cloning/1.9.3/543bce6b30867ebccc79956528d4c46f0e491735/cloning-1.9.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="543bce6b30867ebccc79956528d4c46f0e491735">
+        <dex dex="/Users/djavid/LibGdx projects/chess_test/android/build/intermediates/transforms/dex/debug/folders/1000/10/cloning-1.9.3_b752e62fe9f0805b5ef35bae6a52f7d8cd44290e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/djavid/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/djavid/LibGdx projects/chess_test/android/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_c54f6e2d1878c3c91db7f8719cdaf2ecbb2f95fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/djavid/.gradle/caches/modules-2/files-2.1/com.esotericsoftware/reflectasm/1.10.1/515402cd542ab967a1b5028b4dee1e1800db205b/reflectasm-1.10.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="515402cd542ab967a1b5028b4dee1e1800db205b">
+        <dex dex="/Users/djavid/LibGdx projects/chess_test/android/build/intermediates/transforms/dex/debug/folders/1000/10/reflectasm-1.10.1_ae120dff3489a2ca83e616191f93bb4dfa314e90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/djavid/.gradle/caches/modules-2/files-2.1/com.esotericsoftware/kryo/3.0.1/8d945f3c03c3359fdfe46c62aa70c7fe7c1e00e2/kryo-3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8d945f3c03c3359fdfe46c62aa70c7fe7c1e00e2">
+        <dex dex="/Users/djavid/LibGdx projects/chess_test/android/build/intermediates/transforms/dex/debug/folders/1000/10/kryo-3.0.1_dea1adddba1bf0982a20ba41fe19df09e489083c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/djavid/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.6/47d1e9b890e364ec28f128e9bb3b9a12a94c164/gdx-1.9.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="047d1e9b890e364ec28f128e9bb3b9a12a94c164">
+        <dex dex="/Users/djavid/LibGdx projects/chess_test/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-1.9.6_bd08a422d1d6dadc32b9dddb39f6c2f7d5463985/classes.dex" />
+    </item>
+
+</items>

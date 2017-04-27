@@ -1,0 +1,7 @@
+#Wed Apr 19 10:50:40 MSK 2017
+base.0=/Users/djavid/LibGdx projects/chess_test/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e6644b519a4553f6f5e074785694af1fafa743cf
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/djavid/LibGdx projects/chess_test/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_95ce8bfbbbe47dbbce83cb7066cfbb2866d28256/classes.dex
+base.1=/Users/djavid/LibGdx projects/chess_test/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_95ce8bfbbbe47dbbce83cb7066cfbb2866d28256
+file.0=/Users/djavid/LibGdx projects/chess_test/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e6644b519a4553f6f5e074785694af1fafa743cf/classes.dex

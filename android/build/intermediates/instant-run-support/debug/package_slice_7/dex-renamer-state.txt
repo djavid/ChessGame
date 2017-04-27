@@ -1,0 +1,4 @@
+#Tue Apr 18 14:00:02 MSK 2017
+base.0=/Users/djavid/LibGdx projects/chess_test/android/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7
+renamed.0=classes.dex
+file.0=/Users/djavid/LibGdx projects/chess_test/android/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex

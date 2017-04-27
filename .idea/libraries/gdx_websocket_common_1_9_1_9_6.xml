@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="gdx-websocket-common-1.9.1.9.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.czyzby/gdx-websocket-common/1.9.1.9.6/1dbee131b37c89d97bb7d3239c0648038bcaa5c1/gdx-websocket-common-1.9.1.9.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.czyzby/gdx-websocket-common/1.9.1.9.6/df4489adf03cf70b78d23c8af5d78253c944d1d2/gdx-websocket-common-1.9.1.9.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
